@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sun.buro.earth/sitemap.xml
